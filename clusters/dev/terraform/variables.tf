@@ -81,7 +81,7 @@ variable "created_by" {
 
 variable "created_timestamp" {
   description = "The timestamp this cluster was created"
-  default     = "Unknown"
+  default     = "Mon-Sep-30-21_24_36"
 }
 
 variable "monitoring_service" {
